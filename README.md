@@ -15,4 +15,4 @@ Scripts created for Python and ArcPy Geoprocessing
 - I would love to add additional code to automate obtaining the latest wildfire shapefiles from USFS/ESRI.
 - Make species selectable from a list collected from a file database to easily select a series of species and quickly create custom maps.
 
-
+![Map Created from Output](Layout.png)
